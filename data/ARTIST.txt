@@ -1,0 +1,40 @@
+Joe	Idol	MALE	2168889999	joeidolrox@gmail.com	123 E4th ST	Cleveland	OH	44113	4
+Mary	Jane	FEMALE	3124336868	mary.jane@gmail.com	1314 W21st ST	Chicago	IL	60608	2
+Viktoria	Ale	FEMALE	4407125643	viktoroiusly@hotmail.com	413 Alexander Ave	Amherst	OH	44001	1
+Horos	Kornel	MALE	2134537860	notpotionmasterhoros@yahoo.com	1503 E 77th Pl	Los Angelos	CA	9001	6
+Sofia	Vsevolod	FEMALE	89023896740	wontspellthisright@yahoo.com	828 E15th ST	Chicago	IL	60607	4
+Gene	Frenkle	MALE	6789012349	igotafever@gmail.com	2321 Chapmans Lane	Albuquerque	NM	87110	2
+Milo	Eberhard	FEMALE	5807819024	namedafteradog@yahoo.com	2552 Fieldcrest Road	New York	NY	10011	5
+Ludis	Hippocrates	MALE	9087124098	notaHippocrates@gmail.com	1967 West Street	Wyoming	MI	49509	7
+Vulfgang	Biljana	MALE	1897892135	BiljanaVulfgang@gmail.com	2092 Kinney Street	Springfield	MA	1103	3
+Drina	Leo	FEMALE	3298245892	LeDrina@yahoo.com	2652 Rockford Road	Worcester	MA	1608	1
+Vincenza	Aristides	MALE	8453892348	VinceAristides@hotmail.com	4065 Thompson Street	Los Angeles	CA	90017	2
+Teo	Coco	MALE	1289239083	NotCocoChannel@gmail.com	4296 River Road	Colorado Springs	CO	80918	5
+Ruth	Fisher	FEMALE	8904658930	thefisher@gmail.com	4364 Hart Ridge Road	Saginaw	MI	48607	4
+Achille	Eef	MALE	5892492492	achilleeef@yahoo.com	2604 Haul Road	Lindstrom	MN	55045	6
+Halide	Prokopios	FEMALE	6794938933	halideprokopios@gmail.com	772 Stratford Drive	Waipahu	HI	96797	6
+Marganita	Gavril	FEMALE	6238942573	GavrilMarganita@hotmail.com	4857 August Lane	Minden	LA	71055	4
+Tiziano	Rosendo	MALE	7839939849	RosendoTiziana@gmail.com	426 Geneva Street	New York	NY	10013	5
+Elvira	Aaron	FEMALE	7176632783	AaronElvira@yahoo.com	2138 Meadowbrook Mall Road	Manhattan Beach	CA	90266	2
+Price	Sebastian	MALE	6583894390	SebastianPrice@yahoo.com	4242 Metz Lane	Bedford		1730	3
+Mike	Williams	MALE	8148769089	Mwilliams@gmail.com	837 E7th	Erie	PA	16506	3
+Joel	Manhattan	FEMALE	7163749877	jmanhattan@yahoo.com	567 wooland St.	Buffalo	NY	14546	5
+Matthew 	Raider	MALE	5189383039	mraider@yahoo.com	830 huffunton Dr.	Victor	NY	14872	7
+Joesph	Blanton	MALE	3457890123	jblanton23@gmail.com	490 johnson Lane	Buffalo	NY	32546	3
+John	Steward	MALE	3726836744	jstew345@gmail.com	7384 lakeview Dr.	Buffalo	NY	83928	1
+Jack	Daniels	MALE	2910298762	JD@gmail.com	845 newton Rd.	Seatle	WA	34567	2
+Mary	Dean	FEMALE	7628299172	mdean@gmail.com	567 turner Rd.	Chicago	IL	55687	5
+Scott	Manor	MALE	2029282728	smanor@yahoo.com	737 Hafner Dr.	San Diego	CA	23453	4
+Dan	Lancaster	MALE	2817262812	DLan@msn.com	344 Masters Blvd.	Washington	DC	45768	3
+Tim	Kenajoski	MALE	1928762852	TimKen@msn.com	526 Kimber Rd.	Jamestown	NY	39827	6
+James	Slefer	MALE	9876654321	jslefer@msn.com	412 Center Dr.	Buffalo	NY	14136	7
+Sydney	Opinski	FEMALE	9687542612	sopinski3@gmail.com	569 W 5th St.	Erie	PA	16065	2
+Julia	Quinsty	FEMALE	8272638202	JQ@gmail.com	77 Houser St.	Orlando	FL	78836	1
+Dom	Castaro	MALE	2987624152	dcastro@yahoo.com	34 jackbarrel Rd.	Tampa 	FL	74321	6
+Marina	Flannery	FEMALE	2982725176	mflannery@gmail.com	Berry St.	Louiville	KT	45362	4
+Jacqulin	King	FEMALE	5468978782	jking@gmail.com	Hyde Rd.	Jacksonville	FL	79854	3
+Declan	Lonamon	MALE	9882655767	dlong@yahoo.com	Multer St.	Phoenix	AR	87655	7
+Robert	Kinston	MALE	7692657788	rkingston@gmail.com	Kong Dr.	Kansas City	MO	59483	2
+Patrick	Star	MALE	1237788445	Pstar@msn.com	Bikinibottom	Under the Sea	FL	78366	5
+Julien	Morris	MALE	5679087960	jMorris@msn.com	Nickle St.	St. Cloud	MN	93028	1
+Arthur	Camelot	MALE	6657683246	ArthurofCamelot@msn.com	Broken Dreams Blvd.	Flint	MI	54837	7

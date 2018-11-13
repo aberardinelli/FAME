@@ -1,0 +1,29 @@
+Erie Dev	4843 Lost Creek Road	Philadelphia	PA	19103	2000	50	Concert hall	4
+Erie Inc	672 Pringle Drive	Chicago	IL	60606	2000	75	Concert hall	7
+Erie Rank	866 Upton Avenue	Monomouth	ME	4259	2000	73	Concert hall	8
+Erie Vine	336 Aaron Smith Drive	East Waterford	PA	17021	2000	57	Concert hall	4
+Ridge Erie	1658 Owen Lane	Grand Rapids	MI	49503	2000	65	Concert hall	1
+Inc Erie	4733 Burning Memory Lane	Doylestown 	PA	18901	2000	56	Concert hall	2
+Vine Erie	3637 Juniper Drive 	Saginaw 	MI	48607	2000	67	Concert hall	3
+Erie Ability 	505 Cost Avenue	Temple Hills 	MD 	20031	2000	75	Concert hall	5
+Erie Industries	2997 Hewes Avenue 	Baltimore 	MD	21201	2000	59	Concert hall	5
+Erie Zoom	2898 Nutter Street 	Adrian 	MO	64720	2000	60	Concert hall	5
+Erie Rhino 	3089 Meadow Lane 	San Francisco 	CA	94103	2000	65	Concert hall	6
+Erie Bit 	4957 Jim Rosa Lane 	Oakland	CA	94612	2000	75	Concert hall	8
+Erie Able 	2247 Ritter Avenue 	Southfield	MI	48075	2000	74	Concert hall	7
+Erie Ink	4118 Valley Drive	Philadelphia	PA	19108	2000	65	Concert hall	1
+Erie Ment 	438 Berkley Street 	Philadelphia	PA	19108	2000	65	Concert hall	2
+Erie Gorilla 	2767 Harvest Lane	Sedalia 	MO	65301	2000	76	Concert hall	5
+Able Erie	2485 Jenna Lane	West Des Moines	IA	50266	2000	67	Concert hall	3
+Ridge Theater	667 Martha Ellen Drive 	Reno	NV	89501	500	75	Theater	4
+Rank Theater	391 Ferry Street 	Anniston 	AL	36201	500	67	Theater	4
+Vine Theater	3316 Broadway Street 	Moncks Corner	SC 	29461	500	69	Theater	1
+Theater Industries	589 White Avenue	Corpus Christi	TX	78401	500	76	Theater	7
+Ex Theater	86 Thomas Street 	Northbrook	IL 	60062	500	78	Theater	8
+Rhino Theater 	4505 Sunny Day Drive 	Anaheim 	CA	92805	500	65	Theater	5
+Theater Able 	4373 Broadway Avenue 	Johnson City 	TN 	37601	500	63	Theater	4
+Theater Bit	3960 Bottom Lane	Lancaster	NY 	14086	500	67	Theater	5
+Theater Ment 	3563 Skinner Hollow Road 	La Grande 	OR 	87850	500	75	Theater	2
+Theater Gorilla	428 Stadium Drive 	Waltham 	MA	2154	500	77	Theater	3
+Key Bank Center	1 Seymour H Knox III Plaza 	Buffalo 	NY	14203	19200	200	Stadium	3
+New Era Field 	1 Bills Drive 	Orchard Park 	NY	14127	71870	350	Stadium	3

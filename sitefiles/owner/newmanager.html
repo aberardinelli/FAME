@@ -9,7 +9,14 @@
 
 <h2> Add new artist manager </h2>
 
-<p> Need to add form</p>
+<form method="POST" action="newmanager.php">
+<p>First Name: <input type="textbox" name="FirstName" maxlength="20" required /></p>
+<p>Last Name: <input type="textbox" name="LastName" maxlength="40" required /></p>
+<p>Phone Number: <input type="number" name="Phone" min="1000000000" max="9999999999" /></p>
+<p>Email: <input type="text" name="Email" maxlength="80" required /></p>
+
+<p><input type="submit" value="SUBMIT" /></p>
+</form>
 
 <p><a href="../home_owner.html">Click here to return to Owner Home Page.</a></p>
 

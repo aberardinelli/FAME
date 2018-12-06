@@ -1,0 +1,18 @@
+Done:
+MANAGER (still need assistant FK)
+ASSISTANT
+CUSTOMER
+VENUE
+ARTIST (still need instrument data from that spreadsheet)
+PERFORMANCE
+EXPENSE
+
+Built, not populated:
+PERFORMANCE_ARTIST linking table
+ARTIST_CALENDAR
+INSTRUMENT
+ARTIST_INSTRUMENT linking table
+CONTRACT
+
+Need to build: 
+REVIEW (probably not)

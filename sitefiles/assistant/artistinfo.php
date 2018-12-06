@@ -13,10 +13,7 @@
 // database connection file is one folder up, use ../
 include '../dbconn.php';
 
-$query = "SELECT ArtistID, MAX(EndDate) AS End
-    FROM CONTRACT 
-    GROUP BY ArtistID
-    ORDER BY End;";
+$query = "SELECT * FROM ArtistContractInfo;";
 
 $result = mysqli_query($conn,$query);
 
@@ -29,12 +26,12 @@ if (mysqli_num_rows($result) > 0) {
     
     // First create a table, with column headings
     echo "<table>";
-    echo "<tr><th>Artist ID</th><th>Contract End Date</th><th>Click button to take action</th></tr>";
+    echo "<tr><th>Artist Name</th><th>Contract End Date</th><th>Click button to take action</th></tr>";
     
     // Then loop through the output of the query, creating a row
     // in the HTML table for each row in $result
     while($row = mysqli_fetch_assoc($result)) {
-        echo "<tr><td>".$row["ArtistID"]."</td><td>".
+        echo "<tr><td>".$row["FirstName"]." ".$row["LastName"]."</td><td>".
             $row["End"]."</td><td>".
             "Buttons go here</td></tr>";
     // ON TUESDAY BEFORE THANKSGIVING:

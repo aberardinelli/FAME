@@ -193,3 +193,28 @@ CREATE TABLE CONTRACT(
     ON UPDATE CASCADE,
     CONSTRAINT contract_pk PRIMARY KEY (ArtistID, StartDate)
 );
+
+CREATE VIEW ArtistContractInfo AS
+SELECT A.ArtistID, A.FirstName, A.LastName, MAX(C.EndDate) as End
+FROM ARTIST as A LEFT OUTER JOIN CONTRACT as C ON A.ArtistID = C.ArtistID
+GROUP BY A.ArtistID
+ORDER BY End;
+
+CREATE VIEW CustomerSummary_Last6Months AS
+SELECT C.CustomerName, COUNT(DISTINCT V.VenueID), COUNT(*)
+FROM (CUSTOMER AS C LEFT OUTER JOIN VENUE AS V ON V.OwnerID=C.CustomerID)
+    LEFT OUTER JOIN PERFORMANCE AS P ON V.VenueID = P.Venue
+WHERE P.PerformanceDate >= CURRENT_DATE - INTERVAL 6 MONTH
+    AND P.Status = 'Completed'
+GROUP BY C.CustomerID;
+
+
+/* Example 8 from class 11/29/2018
+
+SELECT V.VenueName, A.FirstName, A.LastName
+FROM ((VENUE AS V JOIN PERFORMANCE AS P ON V.VenueID = P.Venue)
+    JOIN PERFORMANCE_ARTIST AS PA USING PerformanceID)
+    JOIN ARTIST AS A USING ArtistID
+WHERE P.PerformanceDate = '2018-12-01' AND 
+    P.Status = 'Scheduled';
+*/
